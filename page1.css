@@ -1,0 +1,17 @@
+body{
+  min-height: 100vh;
+  background-color: #350ece;
+}
+.main-box {
+  border-radius: 20px;
+  background: #092f37;
+}
+.main-box p {
+  line-height: 1.8;
+  font-size: 1.05rem;
+}
+
+.main-box .btn {
+  border-radius: 30px;
+  font-weight: 500;
+}
